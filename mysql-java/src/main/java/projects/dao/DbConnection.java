@@ -26,4 +26,6 @@ public class DbConnection {
 		}
 		
 	}
+public DbConnection() {
+}
 }
